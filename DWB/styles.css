@@ -1,0 +1,26 @@
+body {
+    background-color: Lavender;
+	opacity: 1;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+}
+h5 {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    text-decoration-line: underline;
+}
+img {
+  float: right;
+}
+ul.big {
+  line-height:5.0;
+text-decoration-line: underline;
+font-style: italic;
+ text-shadow: 2px 2px 15px green;
+}
